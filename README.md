@@ -93,4 +93,4 @@ train_model(model,train_loader,criterion,optimizer)
 ![image](https://github.com/user-attachments/assets/c6a5b03f-ede4-4ed8-b0e9-511e41bdb4b2)
 
 ## RESULT
-Include your result here
+Thus, a Recurrent Neural Network (RNN) model for predicting stock prices using historical closing price data has been developed successfully.
